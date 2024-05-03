@@ -1,0 +1,71 @@
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\bin\Debug\BookPhone.exe.config
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\bin\Debug\BookPhone.exe
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\bin\Debug\BookPhone.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.csprojResolveAssemblyReference.cache
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.Form1.resources
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.Properties.Resources.resources
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.GenerateResource.Cache
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.exe
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.Form2.resources
+C:\Users\nitro\OneDrive\سطح المكتب\مهند رياض المشري 151177\BookPhone\BookPhone\obj\Debug\BookPhone.Form3.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\bin\Debug\BookPhone.exe.config
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.exe
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\bin\Debug\BookPhone.exe
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\bin\Debug\BookPhone.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.csprojResolveAssemblyReference.cache
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.Form3.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.Form2.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.Form1.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.Properties.Resources.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\BookPhone\BookPhone\obj\Debug\BookPhone.csproj.GenerateResource.Cache
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csprojResolveAssemblyReference.cache
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form3.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form2.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form1.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Properties.Resources.resources
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csproj.GenerateResource.Cache
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\bin\Debug\Phone_Book.exe.config
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\bin\Debug\Phone_Book.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\bin\Debug\Phone_Book.application
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\bin\Debug\Phone_Book.exe
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\bin\Debug\Phone_Book.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\Phone_Book.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\Phone_Book.application
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\Phone_Book.exe
+C:\Users\nitro\OneDrive\سطح المكتب\PhoneList\Bookphones\BookPhone\obj\Debug\Phone_Book.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csprojResolveAssemblyReference.cache
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form3.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form2.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form1.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Properties.Resources.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csproj.GenerateResource.Cache
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe.config
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.application
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.application
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.exe
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\alfont_com_AlFont_com_Omar-Regular-2.ttf
+C:\Users\nitro\OneDrive\سطح المكتب\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\alfont_com_خط-عمر-عريض-1.ttf
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe.config
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.exe
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\alfont_com_AlFont_com_Omar-Regular-2.ttf
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\alfont_com_خط-عمر-عريض-1.ttf
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.application
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.exe
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\bin\Debug\دليل.pdb
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form3.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form2.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Form1.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.Properties.Resources.resources
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csproj.GenerateResource.Cache
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.exe.manifest
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\دليل.application
+C:\Users\nitro\OneDrive\سطح المكتب\Company_P\Projects\PhoneList\Bookphones\BookPhone\obj\Debug\BookPhone.csprojResolveAssemblyReference.cache
